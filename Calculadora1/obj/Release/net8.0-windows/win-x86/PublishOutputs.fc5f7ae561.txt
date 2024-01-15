@@ -1,0 +1,6 @@
+C:\Users\JoaoVictor\Downloads\PROG\Calc\EXE\Calculadora1.exe
+C:\Users\JoaoVictor\Downloads\PROG\Calc\EXE\Calculadora1.dll
+C:\Users\JoaoVictor\Downloads\PROG\Calc\EXE\Calculadora1.deps.json
+C:\Users\JoaoVictor\Downloads\PROG\Calc\EXE\Calculadora1.runtimeconfig.json
+C:\Users\JoaoVictor\Downloads\PROG\Calc\EXE\Calculadora1.pdb
+C:\Users\JoaoVictor\Downloads\PROG\Calc\EXE\aa\Calculadora1.resources.dll
